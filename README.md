@@ -1,8 +1,8 @@
 # Testing Exercises
 
 In this file I´m going to explain the testing exercises I did during my Full Stack Development Bootcamp.
-Even do I was not part of the subjects, our Head Teacher agreed with us that we would have an introduction to testing if we had time. 
-Luckily I had the opportunity to practice **unitary testing**. 
+Even do it was not part of the subjects, our Head Teacher agreed with us that we would have an introduction to testing. 
+I had the opportunity to practice some **unitary testing**. 
 
 One of my main goals now is to continue learning and implementing more ans more testing in my developments.
 
